@@ -1,0 +1,36 @@
+.Auth-form-containerr1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contentfood {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+  }
+.Auth-formtheme1{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 50%;
+}
+  .Auth-formcolfood {
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 50%;
+    
+  }

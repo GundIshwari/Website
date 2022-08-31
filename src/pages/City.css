@@ -1,0 +1,395 @@
+.Auth-form-containerrow1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formcol1{
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Mumbai-Bombay-India.jpg.image.750.563.low.webp');
+    background-size: cover;
+    color: white;
+  }
+
+  .Auth-formcol2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Aga-Khan-Palace.jpg');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow2col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/the-carvings-on-pillars.jpg');
+    background-size: cover;
+    color: white;
+  }
+
+ .Auth-formrow2col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/salabat-khan-s-tomb-located-near-ahmednagar-maharashtra-india-salabat-khan-s-tomb-located-near-ahmednagar-maharashtra-india-244880642.jpg');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow3col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/istockphoto-1007839882-612x612.jpg');
+    background-size: cover;
+    color: white;
+  }
+
+ .Auth-formrow3col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/1582889405_shutterstock_719918413.jpg.webp');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }
+
+
+  .Auth-form-containerrow4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow4col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/about-nashik-photo.jpg');
+    background-size: cover;
+    color: white;
+  }
+
+ .Auth-formrow4col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Osmanabad_Masthead_1.jpg');
+    background-size: cover;
+    color: white;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow5col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Amravati-city.jpg');
+    background-size: cover;
+    color: white;
+  }
+
+ .Auth-formrow5col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Solapur_Municipal_Corporation_building\,_Indra_Bhuvan_credit_Alka_Kshirsagar.jpg');
+    background-size: cover;
+    color: white;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow6col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/thomas-cook-10_15_202087-1566908734.jpeg');
+    background-size: cover;
+    color: white;
+  }
+
+ .Auth-formrow6col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/temple-of-dhule-222532-pixahive.webp');
+    background-size: cover;
+    color: white;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow7col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:black;
+    border-radius: 20px;
+    background-image: url('../images/925972682s.jpg');
+    background-size: cover;
+    color: black;
+  }
+
+ .Auth-formrow7col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Stream4-Manik-Sharma.jpg');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   color: white;
+
+  }
+
+.Auth-formrow8col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:black;
+    border-radius: 20px;
+    background-image: url('../images/main-qimg-2b0facab6c0dfdcbaf2cbd43c75aeccc-pjlq.jfif');
+    background-size: cover;
+    color: black;
+  }
+
+ .Auth-formrow8col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/kali-masjid.jpg');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }  
+
+
+  .Auth-form-containerrow9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    color: white;
+  }
+
+.Auth-formrow9col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:black;
+    border-radius: 20px;
+    background-image: url('../images/Khandoba_temple_in_Beed_city.jpg');
+    background-size: cover;
+    color: black;
+  }
+
+ .Auth-formrow9col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/5725dd0e3545f346b3f845f810d6610c.jpg');
+    background-size: cover;
+    color: black;
+    font-size: larger;
+  }
+
+  .Auth-form-containerrow10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+   
+  }
+
+.Auth-formrow10col1 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:black;
+    border-radius: 20px;
+    background-image: url('../images/Yavatmal_Masthead_1.jpg');
+    background-size: cover;
+    color: black;
+  }
+
+ .Auth-formrow10col2 {
+    width: 520px;
+    height: 400px;
+    box-shadow: 3px 4px 5px 6px #363333; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20px;
+    background-image: url('../images/Navi_Mumbai_Skyline.jpg');
+    background-size: cover;
+    color: white;
+    font-size: larger;
+    
+  }
+
+  

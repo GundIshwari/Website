@@ -1,4 +1,4 @@
-//import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import '../App.css'
 const Navbar = () =>{
     return(
@@ -14,16 +14,19 @@ const Navbar = () =>{
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active m-3"  aria-current="page" href="#">Home</a>
+        <Link to="/"  className="nav-link active m-3" >Home</Link>
         </li>
         
         <li className="nav-item">
-        {/* <Link to="/about" className="nav-link m-3">About</Link> */}
-        <a className="nav-link m-3"  href="#">About</a>
+        <Link to="/about" className="nav-link m-3">About</Link> 
         </li>
         
         <li className="nav-item">
           <a className="nav-link m-3"  href="#">Help</a>
+        </li>
+
+        <li className="nav-item">
+        <Link to="/team" className="nav-link m-3">Team</Link>
         </li>
 
         <li className="nav-item">

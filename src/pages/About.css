@@ -1,0 +1,37 @@
+.app{
+    background-color: white;
+}
+div.col{
+    color:black;
+}
+
+.h1{
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn{
+    font-size: 23px;
+    background-color: darkblue;
+    color: white;
+}
+.h2{
+    font-size: 20px;
+}
+.h4{
+    font-size: 30px;
+}
+.h6{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}

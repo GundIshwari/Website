@@ -1,16 +1,24 @@
 import React from 'react';
-import './Login.css';
+import './Account.css';
 import { Link } from 'react-router-dom';
 
-const Login = () => {
+const Account = () => {
   return (
     
-    <div className="Auth-form-container">
-      <form className="Auth-form">
-        <div className="Auth-form-content">
-          <h1 className='Auth-form-name'>Helping Hand</h1><br/>
-          <h3 className="Auth-form-title">Login</h3>
+    <div className="form-container">
+      <form className="form">
+        <div className="form-content">
+          <h1 className='form-name'>Helping Hand</h1><br/>
+          <h3 className="form-title">Create An Account</h3>
           <div className="form-group mt-3">
+          <div className="form-group mt-3">
+            <label>Enter Email</label>
+            <input
+              type="Email"
+              className="form-control mt-1"
+              placeholder="Email"
+            />
+          </div><br/>
          
             <label>Enter Username</label>
             <input
@@ -26,21 +34,23 @@ const Login = () => {
               className="form-control mt-1"
               placeholder="Enter password"
             />
+            <input
+              type="password"
+              className="form-control mt-1"
+              placeholder="Retype your password"
+            />
           </div><br/>
-          <p className="forgot-password text-right mt-2">
-            <a href="#">Forgot password?</a><br/>
-          </p>
+
+          
           <Link to ="/city" className="d-grid gap-2 mt-3">
             <button type="submit" id="submit" className="btn btn-primary">
               Submit
             </button>
-          
-
-          </Link>
+            </Link>
           
         </div>
       </form>
     </div>
   )
 }
-export default Login;
+export default Account ;
