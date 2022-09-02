@@ -9,6 +9,8 @@ import Account from "./pages/Account";
 import City from "./pages/City";
 import Option from "./pages/Option";
 import Information from "./pages/Information";
+import Food from "./pages/Food";
+import Education from "./pages/Education";
 function App() {
   return (
     
@@ -26,6 +28,8 @@ function App() {
         <Route path="/city" element={<City/>}/>
         <Route path="/option" element={<Option/>}/>
         <Route path="/information" element={<Information/>}/>
+        <Route path="/food" element={<Food/>}/>
+        <Route path="/education" element={<Education/>}/>
       </Routes>
         </Router>
         

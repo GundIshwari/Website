@@ -1,0 +1,96 @@
+.Auth-form-containerf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contentf {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    background-size: cover;
+  }
+.Auth-formimgf{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/street\ food.jpg');
+    background-size: cover;
+}
+  .Auth-formcolf {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contentf {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 30%;
+  padding-top: 0%;
+  color: blueviolet;
+  font-size: 80px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 6px 6px 4px black;
+}
+
+.Auth-form-containerh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contenth {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+  }
+.Auth-formimgh{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/30841353958_5d60c074c2_b.jpg');
+    background-size: cover;
+}
+  .Auth-formcolh {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contenth {
+  padding-left: 40%;
+  padding-right: 60%;
+  padding-bottom: 30%;
+  padding-top: 20%;
+  color: blueviolet;
+	font-size: 100px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 6px 6px 4px black;
+}

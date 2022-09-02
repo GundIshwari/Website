@@ -1,0 +1,193 @@
+.Auth-form-containere {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contente {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    background-size: cover;
+  }
+.Auth-formimge{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/SU-Private-University-784x400.jpg');
+    background-size: cover;
+}
+  .Auth-formcole {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contente {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 0%;
+  padding-top: 0%;
+  color: blueviolet;
+  font-size: 60px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 4px 4px 3px black;
+}
+
+.Auth-form-containerep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contentep {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    background-size: cover;
+  }
+.Auth-formimgep{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/School2.webp');
+    background-size: cover;
+}
+  .Auth-formcolep {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contentep {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 0%;
+  padding-top: 0%;
+  color: blueviolet;
+  font-size: 50px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 4px 4px 4px black;
+}
+
+.Auth-form-containerc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contentc {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+  }
+.Auth-formimgc{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/1492675151sd.webp');
+    background-size: cover;
+}
+  .Auth-formcolc {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contentc {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: blueviolet;
+	font-size: 60px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 4px 4px 4px black;
+}
+
+.Auth-form-containercg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    
+  }
+
+  .Auth-form-contentcg {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+  }
+.Auth-formimgcg{
+    width: 620px;
+    height: 500px;
+    box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.597); 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:white;
+    border-radius: 20%;
+    background-image: url('../images/2020-04-19.jpg');
+    background-size: cover;
+}
+  .Auth-formcolcg {
+    width: 420px;
+    height: 300px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+.Auth-form-contentcg {
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 0%;
+  padding-top: 20%;
+  color: blueviolet;
+	font-size: 50px;
+  font-weight: 500;
+  border-radius: 50px;
+  text-shadow: 4px 4px 4px black;
+}
