@@ -29,7 +29,7 @@ const Option = () => {
             
             <form className="Auth-formcolshop">
             <div className="Auth-form-contentf2">
-            <b>Shopping</b>
+            <b>Shopping places</b>
             </div>
             </form>
 

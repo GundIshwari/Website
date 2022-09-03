@@ -1,5 +1,6 @@
 .form-container {
     background-color:white;
+    text-decoration: none;
     }
 
   
@@ -52,4 +53,5 @@
     width: 200px;
     text-align: center;
     margin: auto;
+    text-decoration: none;
 }
